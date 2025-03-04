@@ -16,11 +16,11 @@ This is a project for the Frontend Software Development and Software Requirement
 
 ## Tech Stack (เครื่องมือ)
 
--HTML
--CSS
--JavaScript
--PHP
--MySQL
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
 ## Team Job Position (ตำแหน่งงานของทีม)
 
